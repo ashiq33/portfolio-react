@@ -38,9 +38,9 @@ export const config = {
         },
         {
           heading: "Social Media",
-          description: "Created Social MEdia Web App using React during my learning phase",
+          description: "Created Social Media Web App using React+Vite and used demo json api,during my learning phase",
           animationDelay: "900",
-          buttonLink: "#",
+          buttonLink: "https://socialmediabyashiq.vercel.app/",
           buttonText: "CHECK OUT",
         },
         {

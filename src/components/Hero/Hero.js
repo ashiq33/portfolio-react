@@ -1,19 +1,20 @@
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 
-import '../../styles/Hero/Hero.scss';
+import "../../styles/Hero/Hero.scss";
 
-import Myself from '../../assets/images/myself.png';
+import Myself from "../../assets/images/myself.png";
+
 
 const Hero = () => {
   useEffect(() => {
-    const alphbets = document.getElementsByClassName('hero__alphabet');
+    const alphbets = document.getElementsByClassName("hero__alphabet");
     for (let i = 0; i <= alphbets.length; i++) {
-      alphbets[i]?.addEventListener('animationend', function () {
-        alphbets[i].classList.remove('alphabet-animated');
+      alphbets[i]?.addEventListener("animationend", function () {
+        alphbets[i].classList.remove("alphabet-animated");
       });
 
-      alphbets[i]?.addEventListener('mouseover', function () {
-        alphbets[i].classList.add('alphabet-animated');
+      alphbets[i]?.addEventListener("mouseover", function () {
+        alphbets[i].classList.add("alphabet-animated");
       });
     }
   }, []);
@@ -98,21 +99,25 @@ const Hero = () => {
               data-aos-delay="1800"
             >
               <p>
-                I'm a passionate and responsible{' '}
-                <span>front-end Engineer</span>, with more than 1.5 years of
-                experience. Skilled in developing highly responsive websites with elegant and efficient code.
+                I'm a passionate and responsible <span>front-end Engineer</span>
+                , with more than 1.5 years of experience. Skilled in developing
+                highly responsive websites with elegant and efficient code.
               </p>
             </div>
 
             <div className="hero__buttons">
               <a
-                className="hero__know-btn"
-                href="#about"
+                className="hero__cv-btn"
+                href="/cv.pdf
+"
+                target="_blank"
+                rel="noopener noreferrer"
                 data-aos="fade-up"
                 data-aos-delay="1800"
               >
-                Know more
+                Download My CV
               </a>
+
               <a
                 className="hero__contact-btn"
                 href="#contact"
