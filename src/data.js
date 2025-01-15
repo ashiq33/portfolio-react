@@ -12,6 +12,13 @@ export const config = {
           buttonText: "CHECK OUT",
         },
         {
+          heading: "Al Quran(EN VERS)",
+          description: "Created AL QURAN WEB APP using react.js in my learning phase",
+          animationDelay: "900",
+          buttonLink: "https://al-quran-en.vercel.app/",
+          buttonText: "CHECK OUT",
+        },
+        {
           heading: "Blood Donation",
           description:
             "A Blood donation project using PHP which will help to find blood in emergency situation,",
