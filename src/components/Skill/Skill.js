@@ -117,9 +117,7 @@ const Skill = () => {
                     <li>
                       <span>React.js</span>
                     </li>
-                    <li>
-                      <span>JavaScript</span>
-                    </li>
+  
                     <li>
                       <span>Bootstrap</span>
                     </li>
