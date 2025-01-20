@@ -6,7 +6,7 @@ export const config = {
         {
           heading: " E-commerce WebApp using React",
           description:
-            "Developed an intuitive e-commerce platform featuring core functionalities such as Add to Bag",
+            "Developed an intuitive e-commerce platform featuring core functionalities such as Add to Bag, Remove from Bag, auto-calculation of cart totals, and seamless navigation through the checkout process.",
           animationDelay: "300",
           buttonLink: "https://shopping-website-gu31.vercel.app/",
           buttonText: "CHECK OUT",
