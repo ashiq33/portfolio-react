@@ -6,12 +6,7 @@ export const config = {
         {
           heading: " E-commerce WebApp using React",
           description:
-            "Developed an intuitive e-commerce platform featuring core functionalities such as Add to Bag,
-            Remove from Bag, auto-calculation of cart totals, and seamless navigation through the checkout process. 
-            The application implements dynamic routes for pages like product listings, cart, 
-          and payment, ensuring a smooth user experience. Leveraged Redux and React's useReducer for efficient state management, 
-            while Node.js was used for server-side operations and data retrieval. This project provided valuable insights into
-            managing state, creating dynamic routes, and coordinating frontend-backend workflows in modern web development.",
+            "Developed an intuitive e-commerce platform featuring core functionalities such as Add to Bag",
           animationDelay: "300",
           buttonLink: "https://shopping-website-gu31.vercel.app/",
           buttonText: "CHECK OUT",
@@ -19,7 +14,7 @@ export const config = {
         {
           heading: "Company Website",
           description:
-            "During my Internship I proposed a company website for Tumpat Solutions,",
+            "During my Internship I proposed a company website for Tumpat Solutions",
           animationDelay: "300",
           buttonLink: "https://ashiq33.github.io/tumpatsolutions.com/",
           buttonText: "CHECK OUT",
