@@ -54,6 +54,20 @@
       }
     }
   }
+  &:nth-child(6) {
+    .project-card__description-content {
+      a {
+        background: #00ffff;
+      }
+    }
+  }
+  &:nth-child(7) {
+    .project-card__description-content {
+      a {
+        background: #00ffff;
+      }
+    }
+  }
 
   &__container {
     position: relative;
