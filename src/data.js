@@ -12,6 +12,14 @@ export const config = {
           buttonText: "CHECK OUT",
         },
         {
+          heading: "Chat Application",
+          description:
+            "Created Chat Application using React and Firebase which is totally real time chat application .",
+          animationDelay: "300",
+          buttonLink: "https://react-chat-app-ashiq.vercel.app",
+          buttonText: "CHECK OUT",
+        },
+        {
           heading: "Company Website",
           description:
             "During my Internship I proposed a company website for Tumpat Solutions",
