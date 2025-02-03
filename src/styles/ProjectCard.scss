@@ -55,16 +55,34 @@
     }
   }
   &:nth-child(6) {
+    border-color: #ff6347;
+
     .project-card__description-content {
       a {
-        background: #00ffff;
+        background: #8fc6c6;
       }
     }
   }
   &:nth-child(7) {
+    border-color: #ff6347;
+
     .project-card__description-content {
       a {
-        background: #00ffff;
+        background: #6b61c4;
+      }
+    }
+  }
+  &:nth-child(8) {
+    .project-card__description-content {
+      a {
+        background: #d159cd;
+      }
+    }
+  }
+  &:nth-child(9) {
+    .project-card__description-content {
+      a {
+        background: #0efc444d;
       }
     }
   }
