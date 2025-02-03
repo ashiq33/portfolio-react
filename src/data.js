@@ -4,6 +4,14 @@ export const config = {
     projectCard: {
       cards: [
         {
+          heading: " Background Remover using React",
+          description:
+            "Developed Background Remover App with React where used Animated Css .",
+          animationDelay: "300",
+          buttonLink: "https://background-removerashiq.vercel.app/",
+          buttonText: "CHECK OUT",
+        },
+        {
           heading: " E-commerce WebApp using React",
           description:
             "Developed an intuitive e-commerce platform featuring core functionalities such as Add to Bag, Remove from Bag, auto-calculation of cart totals, and seamless navigation through the checkout process.",
