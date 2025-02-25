@@ -16,7 +16,7 @@ export const config = {
           description:
             "Created a modern, fully responsive real estate landing page using React, Vite, and Framer Motion with smooth animations .",
           animationDelay: "300",
-          buttonLink: "https://realestate-ashiq.vercel.app/",
+          buttonLink: "https://real-estate-byashiq.vercel.app",
           buttonText: "CHECK OUT",
         },
         {
