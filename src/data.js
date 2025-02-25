@@ -11,6 +11,14 @@ export const config = {
           buttonLink: "https://background-removerashiq.vercel.app/",
           buttonText: "CHECK OUT",
         },
+         {
+          heading: " REAL ESTATE By Ashiq",
+          description:
+            "Created a modern, fully responsive real estate landing page using React, Vite, and Framer Motion with smooth animations .",
+          animationDelay: "300",
+          buttonLink: "https://realestate-ashiq.vercel.app/",
+          buttonText: "CHECK OUT",
+        },
         {
           heading: " E-commerce WebApp using React",
           description:
@@ -19,6 +27,7 @@ export const config = {
           buttonLink: "https://shopping-website-gu31.vercel.app/",
           buttonText: "CHECK OUT",
         },
+        
         {
           heading: "Chat Application",
           description:
